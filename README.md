@@ -20,8 +20,8 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ## srecenshot of ui
 
 ### home mobile
-![](https://github.com/sahihai12/home-page-next/blob/main/mobile.png)
-![](https://github.com/sahihai12/home-page-next/blob/main/mobile%20menu.png)
+![](https://github.com/sahihai12/new-home-page/blob/main/home.png)
+![](https://github.com/sahihai12/new-home-page/blob/main/mob-nav.png)
 
 
 ### MY website link
